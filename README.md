@@ -1,1 +1,1 @@
-BitCoinTradingPatterAnalysis
+BitCoinTradingPatternAnalysis
